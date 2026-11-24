@@ -167,6 +167,7 @@ DOMAIN-SUFFIX,main.vscode-cdn.net,PROXY
 DOMAIN-SUFFIX,assets.github.dev,PROXY
 DOMAIN-SUFFIX,linux.do,PROXY
 DOMAIN-SUFFIX,slideshare.net,PROXY
+DOMAIN-SUFFIX,z-lib.sk,PROXY
 # mine
 DOMAIN-SUFFIX,1in8b.life,PROXY
 DOMAIN-SUFFIX,claude.ai,PROXY
